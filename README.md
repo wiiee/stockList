@@ -1,11 +1,5 @@
 # 股票分析
 
-# 2021-03-12
-| code | name | start | minPrice | maxPrice | upPercent | downPercent | downDays | upDays | 5DaysPercent |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [SZ002890](https://xueqiu.com/S/SZ002890) | 弘宇股份 | 2017-08-02 | 16.4412 | 54.92 | 17 | -67 | 111 | 10 | 0 |
-| [SH688178](https://xueqiu.com/S/SH688178) | 万德斯 | 2020-01-14 | 25.92 | 53.2819 | 10 | -51 | 248 | 9 | 0 |
-
 # 2021-03-11
 | code | name | start | minPrice | maxPrice | upPercent | downPercent | downDays | upDays | 5DaysPercent |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
