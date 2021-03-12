@@ -1,5 +1,12 @@
 # 股票分析
 
+# 2021-03-12
+| code | name | start | minPrice | maxPrice | upPercent | downPercent | downDays | upDays | 5DaysPercent |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| [SZ002816](https://xueqiu.com/S/SZ002816) | 和科达 | 2016-10-25 | 11.8936 | 67.7355 | 10 | -52 | 125 | 1 | 0 |
+| [SH600641](https://xueqiu.com/S/SH600641) | 万业企业 | 1993-04-07 | 2.2512 | 26.37 | 9 | -53 | 139 | 2 | 0 |
+| [SH688378](https://xueqiu.com/S/SH688378) | 奥来德 | 2020-09-03 | 46.22 | 99.89 | 12 | -54 | 120 | 3 | 0 |
+
 # 2021-03-04
 | code | name | start | minPrice | maxPrice | upPercent | downPercent | downDays | upDays | 5DaysPercent |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
